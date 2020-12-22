@@ -68,8 +68,8 @@ var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/fptbb/goindex",
   // 主题版本号
   version: "master",
-  //可选默认系统语言:en/zh-chs/zh-cht
-  languages: "en",
+  //en,pt-br
+  languages: "pt-br",
   render: {
     /**
      * 是否渲染HEAD.md文件
