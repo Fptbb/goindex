@@ -19,13 +19,10 @@ var authConfig = {
   ],
 };
 var themeOptions = {
-  // en/zh-chs/zh-cht
   languages: "en",
   render: {
     head_md: true,
     readme_md: true,
-    // 是否显示文件/文件夹描述（默认不显示）
-    // Show file/folder description or not (not shown by default)
     desc: true,
   },
   video: {
