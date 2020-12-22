@@ -67,7 +67,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/fptbb/goindex",
   // 主题版本号
-  version: "latest",
+  version: "master",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
